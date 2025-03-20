@@ -1,0 +1,27 @@
+<ol style="I">
+  <li>Iphone prices in 2015</li>
+  <li>Iphone prices in 2020</li>
+  <li>Iphone prices in 2025</li>
+</ol>
+
+<style>
+  table, tr, td {
+    border:1px solid black;
+  }
+</style>
+<table>
+<caption>Iphone average price increase trend</caption>
+  <tr>
+    <th>Iphone price in 2015 (199$)</th>
+    <th>Iphone price in 2020 (699$)</th>
+    <th>Iphone price in 2025 (899$)</th>
+  </tr>
+  <tr>
+    <td>(Starting data)</td>
+    <td>(350% increase over 5 years)</td>
+    <td>(approx 28% increase over 5 years)</td>
+  </tr>
+  <tr>
+    <td colspan="3">Do not buy new iphones</td>
+  </tr>
+</table>
