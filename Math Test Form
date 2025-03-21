@@ -1,0 +1,48 @@
+<form>
+  Enter name:<br/>
+  <textarea></textarea>
+</form>
+<!--Quiz begins here-->
+<form>
+  <p>What is 9 &times; 6?</p>
+  <input type="radio" name="ques1" value="none">
+  32<br/>
+  <input type="radio" name="ques1" value="none">
+  54<br/>
+  <input type="radio" name="ques1" value="none">
+  72<br/>
+  <input type="radio" name="ques1" value="none">
+  36<br/>
+</form>
+<form>
+  <p>Which number is &gt; 25?</p>
+  <input type="radio" name="ques2" value="none">
+  22<br/>
+  <input type="radio" name="ques2" value="none">
+  24<br/>
+  <input type="radio" name="ques2" value="none">
+  19<br/>
+  <input type="radio" name="ques2" value="none">
+  26<br/>
+</form>
+<form>
+  <p>What is &frac12; of 108?</p>
+  <input type="radio" name="ques3" value="none">
+  54<br/>
+  <input type="radio" name="ques3" value="none">
+  55<br/>
+  <input type="radio" name="ques3" value="none">
+  56<br/>
+  <input type="radio" name="ques3" value="none">
+  57<br/>
+</form>
+<form> 
+    What is 9 &times; 3 &times; 4? Show your work:<br/>
+    <textarea rows="4" cols="60">
+        input here:
+    </textarea>
+</form>
+<form>
+  <input type="submit">
+</form>
+<!--End of test-->
