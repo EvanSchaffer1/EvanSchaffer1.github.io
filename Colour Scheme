@@ -1,26 +1,33 @@
+<img src="Flower1.jpg" alt="Flower" width="500px" />
+
+<style>
+  table, tr, td {
+    border: 1px solid black;
+  }
+
 <table>
   <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-    <th></th>
+    <th style="background-color:rgb(255, 192, 203);>Pink</th>
+    <th style="background-color:rgb(255, 255, 0);>Yellow</th>
+    <th style="background-color:rgb(0, 255, 0);>Green</th>
+    <th>White</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>FFC0CB</td>
+    <td>FFFF00</td>
+    <td>008000</td>
+    <td>FFFFFF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>255, 192, 203</td>
+    <td>255, 255, 0</td>
+    <td>0, 255, 0</td>
+    <td>255, 255, 255</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>350, 100%, 88%</td>
+    <td>60, 100%, 50%</td>
+    <td>120, 100%, 25%</td>
+    <td>0, 0%, 100%</td>
   </tr>
 </table>
