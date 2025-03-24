@@ -1,4 +1,4 @@
 <p><b>Breakfast Menu</b></p>
-<div style="width:400px; height:550px; color:green; background-image:url('Grey.jpg');">
-   <p>
+<div style="width:400px; height:550px; color:green; background-image:url="Grey.jpg;">
+   <p> HI
 </div>
