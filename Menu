@@ -1,4 +1,40 @@
-<p><b>Breakfast Menu</b></p>
-<div style="width:400px; height:550px; color:green; background-image:url="Grey.jpg;">
-   <p> HI
-</div>
+<html>
+<head>
+<style>
+body{background-color:blue;}
+#menus {  }
+#Breakfast{height:550px; width:400px; margin: 15px; padding: 15px; border-style:solid; border-width: medium; background-image: url("Grey.jpg");}
+#Lunch{height:550px; width:400px; margin: 15px; padding: 15px; border-style:solid; border-width: medium; background-image: url("Grey.jpg");  }
+#Dinner{height:550px; width:400px; margin: 15px; padding: 15px; border-style:solid; border-width: medium; background-image: url("Grey.jpg");  }
+</style>
+</head>
+<body>
+  <h1>Restraunt</h1>
+  <div id="menus">
+    <div id="Breakfast">
+    <h2>Breakfast</h2>
+      <ul>
+        <li>Eggs</li>
+        <li>Toast</li>
+        <li>Orange Juice</li>
+      </ul>
+    </div>
+    <div id="Lunch">
+    <h2>Lunch</h2>
+      <ul>
+        <li>BLT</li>
+        <li>Salad</li>
+        <li>Soda</li>
+      </ul>
+    </div>
+    <div id="Dinner">
+    <h2>Dinner</h2>
+      <ul>
+        <li>Pasta</li>
+        <li>Steak</li>
+        <li>Water</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
