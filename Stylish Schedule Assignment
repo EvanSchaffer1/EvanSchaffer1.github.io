@@ -1,0 +1,46 @@
+<style>
+  table {
+    border-collapse:collapse;
+  }
+  .shading {
+    background-color:#ADD8E6;
+  }
+  th {
+    border:solid 3px #000000;
+    color:#000000;
+    padding:10px;
+  }
+  td {
+    border:solid 3px #000000;
+    color:#000000;
+    padding:10px;
+  }
+  tr.main {
+  background-color:#FF7F7F;
+  }
+</style>
+
+<table>
+  <colgroup>
+    <col class="shading">
+    <col span="2">
+  </colgroup>
+  <tr class="main">
+    <th>8:30 am</th>
+    <th>12:00 pm</th>
+    <th>2:00 pm</th>
+    <th>4:00 pm</th>
+  </tr>
+  <tr>
+    <td>Make Bed</td>
+    <td>Make Lunch</td>
+    <td>Make Cookies</td>
+    <td>Bike Ride</td>
+  </tr>
+  <tr>
+    <td>Cook Breakfast</td>
+    <td>Work Out</td>
+    <td>Fix Computer</td>
+    <td>Take Out Trash</td>
+  </tr>
+</table>
