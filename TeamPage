@@ -1,0 +1,62 @@
+<html>
+<head>
+    <style>
+        .Team {
+            height: 200px;
+            margin-top: 50px;
+        }
+        body {
+            height: 250px;
+            width: 500px;
+            padding: 5px;
+        }
+        h2 {
+            float: left;
+            margain-left: 100px;
+            margain-right: 100px;
+            width: 150px;
+            height: 50px;
+            text-align: center;
+        }
+        .Navigation {
+            height: 50px;
+            margain-bottom: 50px;
+            width: 1600px;
+            background-color: red;
+            text-align: center;
+            position: fixed;
+            top: 0;
+        }
+    </style>
+    <title>Our Team Page</title>
+</head>
+<div class="Navigation">
+    <h2>Our Team</h2>
+    <h2>About Us</h2>
+    <h2>Contact</h2>
+</div>
+<div class="Team">
+    <img src="Guy1.jpg" alt="Fred" width="150px" style="float: left; margin-right: 15px;" />
+<body>
+    Fred is the current team leader of the organization.  Fred graduated from Drexel University with a Bachelor's Degree in computer science.  He finds quick solutions to problems and pivots with ease.  Fred is currently on his fifth year at the company and shows great leadership skills and persistence.  Fred is also the manager of the marketing for the products produced by the company and takes care of the advertising.
+</body>
+</div>
+<div class="Team">
+<img src="Girl1.jpg" alt="Janice" width="150px" style="float: left; margin-right: 15px;" />
+<body>
+Our current second in command is Janice who now has 3 years of experience in the company.  She demonstrates strong passion towards the projects completed by the company.  She shows great chemistry between herself and the other members of the team.  She graduated from Full Sail University with a Bachelor's Degree in computer science.  She is an outstnading member of our team and looks for improvements to make everyday.
+</body>
+</div>
+<div class="Team">
+<img src="Guy2.jpg" alt="Jared" width="150px" style="float: left; margin-right: 15px;" />
+<body>
+Jared is currently taking a position as Janice's assistant.  Jared demonstrates some of the similar traits that Janice does, but is fairly new to the company with only 2 years of experience currently under his belt.  Even though he is new, you should not under estimate someone with motivation and dedication that matches Jared's.  We can expect great work to come from a person just like this.
+</body>
+</div>
+<div class="Team">
+<img src="Guy3.jpg" alt="Thomas" width="150px" style="float: left; margin-right: 15px;" />
+<body>
+Our team is actively taking in an "apprentice" or student in our ranks.  Thomas is still in university, but is taking a job to gain experience and to earn money while he is currently in school.  Even though he will technically end his service in about a years time, if he keeps up his good work ethic and dedication, we will offer him a postion once he exits university.
+</body>
+</div>
+</html>
