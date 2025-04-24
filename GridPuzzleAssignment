@@ -1,0 +1,47 @@
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: 80px 80px 800px;
+  padding: 10px;
+  }
+  .name {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+  .puzzle {
+    grid-column-start: 1;
+    grid-column-end: 3;
+  }
+
+</style>
+</head>
+<div class="grid-container">
+  <div class="name">Evan Schaffer</div>
+  <div>Snowmen Puzzle</div>
+  <div>April 24th</div>
+  <div class="puzzle"> 
+    <div class="flex-container">
+      <img src="Puzzle2_C.jpg" alt="C" length="80px" width="80px" />
+      <img src="Puzzle2_E.jpg" alt="E" length="80px" width="80px" />
+      <img src="Puzzle2_G.jpg" alt="G" length="80px" width="80px" />
+      <img src="Puzzle2_A.jpg" alt="A" length="80px" width="80px" />
+      <img src="Puzzle2_M.jpg" alt="M" length="80px" width="80px" />
+    </div
+    <div class="flex-container">
+      <img src="Puzzle2_D.jpg" alt="D" length="80px" width="80px" />
+      <img src="Puzzle2_L.jpg" alt="L" length="80px" width="80px" />
+      <img src="Puzzle2_B.jpg" alt="B" length="80px" width="80px" />
+      <img src="Puzzle2_K.jpg" alt="K" length="80px" width="80px" />
+    </div>
+    <div class="flex-container">
+      <img src="Puzzle2_J.jpg" alt="J" length="80px" width="80px" />
+      <img src="Puzzle2_H.jpg" alt="H" length="80px" width="80px" />
+      <img src="Puzzle2_I.jpg" alt="I" length="80px" width="80px" />
+      <img src="Puzzle2_F.jpg" alt="F" length="80px" width="80px" />
+    <div>
+  </div>
+</div>
+</html>
