@@ -1,0 +1,36 @@
+<html>
+  <head>
+    <style>
+      table{ 
+      border: 2px solid;
+      }
+      th, td {
+        border: 1px solid black;
+        padding: 5px;
+        text-align: center;
+        }
+        tr:first-of-type {
+        background-color: red;
+        color: white;
+        }
+    </style>
+  </head>
+  <h1>SOCCER</h1>
+  <table>
+    <tr>
+      <th>Soccer</th>
+      <th>1st Half</th>
+      <th>2nd Half</th>
+    </tr>
+    <tr>
+      <th>Team 1</th>
+      <td>2 goals</td>
+      <td>1 goal</td>
+    </tr>
+    <tr>
+      <th>Team 2</th>
+      <td>3 goals</td>
+      <td>2 goals</td>
+    </tr>
+  </table>
+</html>
