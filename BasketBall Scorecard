@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="ScorecardStyleSheet.css">
+  </head>
+  <h1>BASKETBALL</h1>
+  <table>
+    <tr>
+      <th>BASKETBALL</th>
+      <th>1st Half</th>
+      <th>2nd Half</th>
+    </tr>
+    <tr>
+      <th>Team 1</th>
+      <td>26 points</td>
+      <td>32 points</td>
+    </tr>
+    <tr>
+      <th>Team 2</th>
+      <td>31 points</td>
+      <td>28 points</td>
+    </tr>
+  </table>
+</html>
