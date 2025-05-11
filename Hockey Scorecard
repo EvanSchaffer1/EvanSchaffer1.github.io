@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="ScorecardStyleSheet.css">
+  </head>
+  <h1>HOCKEY</h1>
+  <table>
+    <tr>
+      <th>Hockey</th>
+      <th>1st Half</th>
+      <th>2nd Half</th>
+    </tr>
+    <tr>
+      <th>Team 1</th>
+      <td>4 goals</td>
+      <td>2 goal</td>
+    </tr>
+    <tr>
+      <th>Team 2</th>
+      <td>4 goals</td>
+      <td>5 goals</td>
+    </tr>
+  </table>
+</html>
