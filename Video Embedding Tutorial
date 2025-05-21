@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+<html>
+<head>
+    <style>
+        p {
+            color: red;
+        }
+    </style>
+</head>
+<h2>How to Embed a Video</h2>
+<p>
+    The first step in embedding a video into a web page is to either located or create the video that you want and save it onto your laptop. Remember, the file should be an mp.4 file.
+</p>
+<img src="Videopicture1.png" alt="Picture1" width="250px" />
+<p>
+The next step of the process is to pick the platform that you are going to insert the image into, in my cases this is github. You are going to click add file from device and bring the file into the software.
+</p>
+<img src="Videopicture2.png" alt="Picture2" width="250px" />
+<p>
+The final step to inserting a video is to follow the format discussed in the lessons for the class using tags for width, height, source, and type in that order. Once you remember the order that these elements go in, it will become easier to insert videos into documents.
+</p>
+<img src="Videopicture3.png" alt="Picture3" width="250px" />
+<p>
+Here is the example video:
+</p>
+<video width="250px" height="200px">
+<source src="Videossample.mp4" type="video/mpeg" />
+</video>
+</html>
