@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang='en'>
+<html>
+<head>
+    <style>
+        @keyframes myAnimation {
+            from {
+                color: purple;
+            }
+            to {
+                color: blue;
+            }
+        }
+        .red-text {
+            color: red;
+        }
+        .green-text {
+            color: green;
+        }
+        h1 {
+            color: blue;
+            font-weight: bold;
+            animation-name: myAnimation;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+        }
+        div {
+            width: 30%;
+            height: 120px;
+            background-color: green;
+            padding: 4px;
+            transition-delay: 0.5s;
+        }
+        div:hover {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<h1>Math Review Cards</h1>
+<div>
+    <p>
+        4 x 3
+    </p>
+    <p class="green-text">
+        12
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        4 + 9
+    </p>
+    <p class="green-text">
+        13
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        5 x 9
+    </p>
+    <p class="green-text">
+        45
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        2 + 7
+    </p>
+    <p class="green-text">
+        9
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        4 = 9
+    </p>
+    <p class="green-text">
+        False
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        2 x 12
+    </p>
+    <p class="green-text">
+        24
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        3 x 9
+    </p>
+    <p class="green-text">
+        27
+    </p>
+</div>
+</br>
+<div>
+    <p>
+        12 / 6
+    </p>
+    <p class="green-text">
+        2
+    </p>
+</div>
+</html>
