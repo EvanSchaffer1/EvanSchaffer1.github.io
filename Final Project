@@ -9,6 +9,13 @@
     </style>
   </head>
   <h2>Home Page (Page 1)</h2>
+  <div class="Flexboxer">
+    <div>Page 1</div>
+    <div>Page 2</div>
+    <div>Page 3</div>
+    <div>Page 4</div>
+    <div>Page 5</div>
+  </div>
   <img src="OutsideStore.jpg" alt="Storefront" width="500px" />
   <p>Jack's Clothing store opened just before Halloween about 5 years ago.  At the time of its release, not many people took it to mind as it was one of many stores that opened in that area.  Jack's Clothing did very little sales during its first year and was barely able to stay afloat due to the high rent in the area.  Even though there was only a limited amount of recuring customers, those that did return often when surprised with the quality of the products they were purchasing.  Before learning more about Jack's Clothing, we would like to get some user feedback about previous experiences with clothing stores of this style.</p>
   <h2>Page 2</h2>
@@ -21,9 +28,27 @@
   <h2>Page 3</h2>
   <img src="MoreClothing.jpeg" alt="More Clothing" width="500px" />
   <p>After seeing the prices of the product in this table, you can compare it to the other store's products you have purchased.  You will quickly be able to tell that the prices of Jack's Clothing products are significantly cheaper even though the quality of the product does not suffer in result of this.  You may be wondering how it is possible that a clothing sotres is able to remain profitable while producing and selling high-quality pieces for low prices.  This is possible because Jack's Clothing was created to produce high-end clothing, not to profit greatly from the customers.  In case you are wondering about some other products that were not found on the table, here is a list that will show some others.</p>
+  <ul>
+    <li>Thick Wooly Sweatshirt</li>
+    <li>Hand-knit caps</li>
+    <li>Cozy Socks</li>
+    <li>Graphic T-shirts</li>
+    <li>Sneakers</li>
+  </ul>
   <h2>Page 4</h2>
   <img src="ClothingTown.jpeg" alt="Surrounding Town" width="500px" />
   <p>If you are now thinking about visiting Jack's Clothing to browse the availble inventroy but have realized it is far from where you live, we have the solution for you.  As we mentioned earlier, the rent of Jack's Clothing is high because the area in which it is located is among some of the most useful stores.  These stores include a shopping mall, multiple coffee shops, a few high-quality restraunts to grab food to eat, and many other stores that can also be visited during your stay.  With an area filled as much as this one, you will have no problem being able to create a day's worth of shopping or fun out of it.</p>
+  <ul>
+    <li>Coffee Shop
+      <ul class="nestedlist">
+        <li>Coffee</li>
+        <li>Pastries</li>
+        <li>Free</li>
+      </ul>
+    </li>
+    <li>Bookstore</li>
+    <li>Arcade</li>
+  </ul>
   <h2>Page 5</h2>
   <img src="ClothingGuy.jpeg" alt="#1 Employee" width="500px" />
   <p>Jakc's Clothing is able to sustain this high-quality experience as a small business by the amazing team that manages it.  The sales manager and #1 employee of the month, Josh, is one of the reasons that so many people found the appeal of the store.  With his expert sales techniques and social media skills, he was able to showcase the products of the stores on popular social media sites for millions of people to view and funnel customers in.  Another mastermind behind the stores success is Ben who is responsible for designing and sourcing the clothing that is displayed and sold in the store.  He is able to source the store standard clothing with ease and creates new designs frequently to keep the inventory fresh.</p>
