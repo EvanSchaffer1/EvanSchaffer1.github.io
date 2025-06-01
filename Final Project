@@ -25,6 +25,18 @@
             text-align: center;
             border: solid,black, 2.5px;
         }
+        th {
+            border: solid,black, 2.5px;
+            background-color: red;
+            padding: 5px;
+        }
+        td {
+            border: solid,black, 2.5px;
+            padding: 5px;
+        }
+        .nestedlist {
+            color: grey;
+        }
     </style>
 </head>
 <div class="HomePage">
@@ -108,7 +120,7 @@ If you are now thinking about visiting Jack's Clothing to browse the availble in
 <ul class="nestedlist">
 <li>Coffee</li>
 <li>Pastries</li>
-<li>Free</li>
+<li>Free Wifi</li>
 </ul>
 </li>
 <li>Bookstore</li>
