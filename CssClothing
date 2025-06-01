@@ -1,0 +1,35 @@
+
+        p {
+            color: black;
+        }
+        .HomePage {
+            display: grid;
+            grid-template-columns: auto auto;
+            grid-template-rows: 80px 80px 350px;
+        }
+        .HomePage div: first-child {
+            grid-column: 1/span 2;
+        }
+        .Flexboxer {
+            grid-column: 1/span 2;
+        }
+        .Flexboxer div {
+            float: left;
+            width: 70px;
+            background-color: lightgrey;
+            margin-left: 10px;
+            text-align: center;
+            border: solid,black, 2.5px;
+        }
+        th {
+            border: solid,black, 2.5px;
+            background-color: red;
+            padding: 5px;
+        }
+        td {
+            border: solid,black, 2.5px;
+            padding: 5px;
+        }
+        .nestedlist {
+            color: grey;
+        }
