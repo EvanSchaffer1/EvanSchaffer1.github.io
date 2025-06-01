@@ -2,42 +2,10 @@
 <html lang='en'>
 <html>
 <head>
-    <style>
-        p {
-            color: black;
-        }
-        .HomePage {
-            display: grid;
-            grid-template-columns: auto auto;
-            grid-template-rows: 80px 80px 350px;
-        }
-        .HomePage div: first-child {
-            grid-column: 1/span 2;
-        }
-        .Flexboxer {
-            grid-column: 1/span 2;
-        }
-        .Flexboxer div {
-            float: left;
-            width: 70px;
-            background-color: lightgrey;
-            margin-left: 10px;
-            text-align: center;
-            border: solid,black, 2.5px;
-        }
-        th {
-            border: solid,black, 2.5px;
-            background-color: red;
-            padding: 5px;
-        }
-        td {
-            border: solid,black, 2.5px;
-            padding: 5px;
-        }
-        .nestedlist {
-            color: grey;
-        }
-    </style>
+    <link rel="stylesheet" hred="CssClothing.css">
+    <title>Clothing</title>
+    <meta name="keywords" content="Clothing,Store,ClothingStore,StoreClothing">
+    <meta name="description" content="A fictional story about a Clothing Store">
 </head>
 <div class="HomePage">
     <div>
